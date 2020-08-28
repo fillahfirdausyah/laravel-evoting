@@ -68,7 +68,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Aplikasi Pilketos SMKN 1 KAWALI
+                    Aplikasi Pilketos SMKN 2 Bitung
                 </div>
 
                 <div class="links">

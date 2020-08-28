@@ -5,7 +5,7 @@
 	<div class="panel panel-headline">
 		<div class="panel-heading">
 			<div class="panel-title">E-Voting | Kandidat</div>
-			<div class="panel-subtitle">Periode : 2019-2020</div>
+			<div class="panel-subtitle">Periode : 2020-2021</div>
 		</div>
 		<div class="panel-body" style="margin-bottom:20px;">
 				<div class="row">

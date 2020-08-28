@@ -13,9 +13,11 @@
 /** Default Route */
 Route::get('/','UserController@index');
 Route::get('/votinglogin','UserController@votinglogin')->name('votinglogin');
+
 /** Admin Route */
 Route::get('/admin','DashboardController@index')->name('home');	
 Route::post('/admin/postlogin','AuthController@postlogin');
+
 //Route Kandidat
 Route::get('/admin/kandidat','KandidatController@index')->name('admin.kandidat');
 Route::get('/admin/kandidat/tambah','KandidatController@tambah')->name('admin.kandidat.tambah');
@@ -24,6 +26,7 @@ Route::get('/admin/kandidat/edit/{id}','KandidatController@edit')->name('admin.k
 Route::post('/admin/kandidat/update/{id}','KandidatController@update')->name('admin.kandidat.update');
 Route::get('/admin/kandidat/hapus/{id}','KandidatController@hapus')->name('admin.kandidat.hapus');
 Route::post('/admin/kandidat/store','KandidatController@store')->name('admin.kandidat.store');
+
 //Route Voters
 Route::get('/admin/voters','VotersController@index')->name('admin.voters');
 Route::get('/admin/voters/tambah','VotersController@tambah')->name('admin.voters.tambah');

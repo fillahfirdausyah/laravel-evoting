@@ -18,7 +18,7 @@
 @yield('konten')
     <footer>
         <hr style="margin-bottom:5px;">
-        <h6 class="text-center" style="color:white">Copyright@RPL SMKN 1 Kawali</h6>
+        <h6 class="text-center" style="color:white">Copyright@TKJ SMKN 2 Bitung</h6>
     </footer>
 <script src="/js/app.js"></script>
 @yield('js')

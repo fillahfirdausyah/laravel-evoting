@@ -34,6 +34,7 @@ class VotersController extends Controller
 	{
 		return view('dashboard/voter/hapus');
 	}
+	
     public function store(Request $data)
     {
     	$jumlah = $data->jumlah;

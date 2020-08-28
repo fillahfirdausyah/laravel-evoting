@@ -61,7 +61,7 @@
             <div class="overlay"></div>
             <div class="content text">
               <h1 class="heading">Aplikasi Pemilihan Ketua Osis</h1>
-              <small>Powered by RPL SMKN 1 Kawali</small>
+              <small>Powered by SMK N 2 Bitung</small>
             </div>
           </div>
           <div class="clearfix"></div>

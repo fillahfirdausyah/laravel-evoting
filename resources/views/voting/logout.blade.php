@@ -1,5 +1,5 @@
 @extends('voting.master')
-@section('judul','E-voting SMKN 1 KAWALI')
+@section('judul','E-voting SMKN 2 Bitung')
 @section('konten')
     <div class="mycontainer" style="overflow-x:hidden">
     <div class="row">

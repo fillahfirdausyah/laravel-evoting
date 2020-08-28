@@ -5,7 +5,7 @@
 	<div class="panel panel-headline">
 		<div class="panel-heading">
 			<div class="panel-title">Tambah Akun Voting Pilketos</div>
-			<div class="panel-subtitle">Periode : 2019-2020</div>
+			<div class="panel-subtitle">Periode : 2020-2021</div>
 		</div>
 		<div class="panel-body">
 			<div class="row">

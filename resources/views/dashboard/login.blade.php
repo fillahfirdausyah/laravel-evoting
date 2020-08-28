@@ -47,7 +47,7 @@
 						<div class="overlay"></div>
 						<div class="content text">
 							<h1 class="heading">Aplikasi Pemilihan Ketua Osis</h1>
-							<p>by Fikri Suheri</p>
+							<p>By, Fillah Firdausyah</p>
 						</div>
 					</div>
 					<div class="clearfix"></div>

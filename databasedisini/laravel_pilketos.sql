@@ -259,9 +259,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(2, 'ff', 'admin@s.com', NULL, '$2y$10$LiPwFGtZf7/jG4H1gbWr8eU.0.2flnkKusgdP/T8fWEsVBvYspmPO', NULL, '2019-05-19 21:00:31', '2019-05-19 21:00:31'),
-(3, 'FikriSuheri', 'admin@admin.com', NULL, '$2y$10$Xi3auSUpCoGVYpXPvmoj4uOTYLKsW7WN.celG4hNreMdfHyzwtd0i', NULL, '2019-08-29 00:00:00', NULL),
-(4, 'Fikri Suheri', 'admin@gmail.com', NULL, '$2y$10$3webPbBxcjhS5yF0mxafOOEcnoWWUjJewHdX4DITwPcK/x6gYQZWi', NULL, '2020-05-29 08:12:49', '2020-05-29 08:12:49');
+(2, 'fillah', 'admin@admin.com', NULL, '$2y$10$Vj3vNmWNYkOkiFYKGTudpO3gdi7bxFTXHeGRCFEndY0/6O0bajuYm', NULL, '2019-05-19 21:00:31', '2019-05-19 21:00:31');
 
 --
 -- Indexes for dumped tables

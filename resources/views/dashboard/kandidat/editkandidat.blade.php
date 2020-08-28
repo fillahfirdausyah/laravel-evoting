@@ -8,7 +8,7 @@
 				EDIT CALON KETUA OSIS
 			</div>
 			<div class="panel-subtitle">
-				Periode : 2019-2020
+				Periode : 2020-2021
 			</div>
 		</div>
 		<div class="panel-body">
